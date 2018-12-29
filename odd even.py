@@ -1,4 +1,4 @@
-a = int(input("enter a number"))
+a = int(input())
 
 if a%2 == 0:
 
@@ -6,4 +6,4 @@ if a%2 == 0:
 
 else :
  
-   print "InValid"
+   print "Invalid"
