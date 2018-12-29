@@ -6,4 +6,4 @@ if a%2 == 0:
 
 else :
  
-   print "Invalid"
+   print "Odd"
