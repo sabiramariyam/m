@@ -9,5 +9,5 @@ for(num=N;num<=Q;num++)
 if(num%2==1)
 printf("%d\t",num);
 }
-getch();
+
 }
