@@ -3,7 +3,7 @@
 int main()
 {
 int number,originalnumber,remainder,result=0,n=0;
-scanf("5d",&number);
+scanf("%d",&number);
 originalnumber=number;
 while(originalnumber!=0)
 {
