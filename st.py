@@ -1,2 +1,2 @@
-S = str(input(""))
-print("\n",S+".")
+s = str(input(""))
+print("\n",s+".")
