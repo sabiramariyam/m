@@ -1,4 +1,3 @@
-s=int(input())
 def is_palindrome(s):
     if len(s) < 1:
         return True
