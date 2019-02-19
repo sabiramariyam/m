@@ -9,6 +9,6 @@ def is_palindrome(s):
             return False
 a=str(input())
 if(is_palindrome(a)==True):
-    print("yes")
+    print("YES")
 else:
-    print("no")
+    print("NO")
